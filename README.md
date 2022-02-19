@@ -1,5 +1,5 @@
 # Image-Processing-Using-MATLAB21
-This project shows calculation of forest fire affected area using Image Processing done by MATLAB 21.
+This project shows calculation of forest fire affected area using Image Processing done on MATLAB 21.
 **This Project was made by Syed Mohd Sarim and Nivit Karki.
 
 A big Chunk of forest area of the country is anually affected by forest fire leading to enormous imapact on our biodiversity and ecosystems. 
